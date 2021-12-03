@@ -1,1 +1,145 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 
+header {
+  color: white;
+  background-color: darkgray;
+  text-align: right;
+  height: 5vh;
+  font-size: 22px;
+  line-height: 1.2;
+  letter-spacing: 4.59px;
+  font-weight: 800;
+  border-bottom: 2px solid black;
+  margin: 0;
+  padding: 32px 0px;
+}
+
+#aman {
+  float: left;
+  color: brown;
+}
+
+header h1 {
+  float: left;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+header nav {
+  float: right;
+  padding-top: 10px;
+}
+
+nav li {
+  display: inline-block;
+}
+
+li a {
+  font-size: 22px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+#home {
+  color: brown;
+}
+
+a:hover {
+  color: black;
+}
+
+.mainbody {
+  text-align: center;
+  background-image: url(/images/pic-1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#part1 {
+  color: black;
+  height: 60vh;
+}
+
+#mainheading {
+  line-height: 2;
+  padding: 60px 0 20px 0;
+  font-size: 60px;
+
+}
+
+
+#part1 p {
+  color: rgba(10, 1, 1, 0.774);
+  padding: 10px;
+  font-size: 30px;
+}
+
+.formbody {
+  color: white;
+  background-color: darkslategray;
+  padding: 32px 0;
+  text-align: center;
+}
+
+.formbody p {
+  font-weight: bold;
+  font-size: 30px;
+  float: left;
+  width: 55vw;
+}
+
+.formbody input {
+  width: 250px;
+  font-size: 15px;
+  border: 2px solid burlywood;
+}
+
+.formbody button {
+  padding: 10px;
+  color: white;
+  background-color: black;
+  border: 2px solid burlywood;
+  position: relative;
+  top: 14px;
+  right: 166px;
+}
+
+.lastbody {
+  background-color: rgba(0, 0, 0, 0.432);
+}
+
+.box {
+  height: 300px;
+  text-align: center;
+}
+
+.box img {
+  padding: 20px 0;
+}
+
+.box h1 {
+  font-size: 30px;
+  padding: 10px 0;
+}
+
+.box p {
+  padding: 10px 10px;
+
+}
+
+footer {
+  color: white;
+  background-color: black;
+  font-size: 19px;
+  line-height: 39px;
+  letter-spacing: 0.014em;
+  font-weight: 600;
+}
+
+.footer {
+  text-align: center;
+}

@@ -1,6 +1,6 @@
 # **Static_Website**:
 
-> *This is my first simple web project using only **HTML5 AND CSS3***
+> *This is my first & simple Frontend Web-based project using only **HTML5 AND CSS3***
 
 
 Few Images of my Project:
